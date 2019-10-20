@@ -1,2 +1,3 @@
 # controlederh
-Primeiro sistema em Programação Orientada a Objetos no C#, com o objetivo de realizar o registro dos funcionários no RH de uma empresa.
+First system in Object-oriented programming, C#, with the purpose to develop a human resources control system.
+
